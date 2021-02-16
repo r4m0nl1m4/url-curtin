@@ -1,0 +1,21 @@
+{
+  "name": "url-curtin",
+  "version": "1.0.0",
+  "description": "Node.js + Express + MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "devStart": "nodenom server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.16",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
