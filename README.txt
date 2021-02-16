@@ -12,9 +12,7 @@
 //                                                                         //
 /////////////////////////////////////////////////////////////////////////////
 //                                                                         //
-// Description: Program  to  create  histogram   using   POSIX   threading //
-// programming,  developed  for  use on serie and parallel processors with //
-// local interconnections.                                                 //
+// Description: URL shortener by Node.js + Express + MongoDB.              //
 //                                                                         //
 /////////////////////////////////////////////////////////////////////////////
 //                                                                         //
